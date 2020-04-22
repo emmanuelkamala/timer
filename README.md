@@ -12,7 +12,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-Coming up...
+https://emmanuelkamala.github.io/timer/
 
 
 ## Getting Started
