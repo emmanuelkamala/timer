@@ -2,6 +2,14 @@
     height: 400px;
     width: 400px;
   }
+
+.main-title {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 15px 0 25px;
+}
   
   .timer {
     display: flex;
