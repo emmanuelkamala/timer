@@ -33,7 +33,7 @@ Clone the repo
 index.html
 
 
-## Authors
+## Author
 
 👤 **Author**
 
